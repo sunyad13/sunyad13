@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Yadav</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center"> Android Developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunyad13" alt="sunyad13" /></a> </p>
